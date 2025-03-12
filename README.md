@@ -28,7 +28,7 @@ Click below to run the project online **without any setup**:
 ### ** Method 2: Run Locally**
 1. **Clone this repository**:
    ```sh
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+   git clone https://github.com/OfficiallyNikita/HeartDisease_Detection.git
    cd HeartDisease_Detection
   
 
