@@ -30,5 +30,5 @@ Click below to run the project online **without any setup**:
    ```sh
    git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
    cd HeartDisease_Detection
-   </p>
+  
 
